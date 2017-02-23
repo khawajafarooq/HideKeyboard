@@ -1,5 +1,5 @@
 # HideKeyboard
-Category for hiding keyboard while clicking anywhere on the screen
+Category for hiding keyboard while clicking anywhere on the screen.
 
 **How to use it?**
 
@@ -34,4 +34,4 @@ override func viewDidLoad() {
 ...
 ```
 
-Hope that will be helpful! 👍
+Hope it will be helpful! 👍
